@@ -26,7 +26,7 @@ namespace DashboardApp
             btnLast7Days.Select();
 
             model = new Dashboard();
-            LoadData();
+        //    LoadData();
         }
 
         //Private methods
